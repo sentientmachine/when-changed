@@ -35,3 +35,7 @@
 
       when-changed FILE COMMAND...
       when-changed FILE [FILE ...] -c COMMAND
+
+    ~ Example for python, this is how I do it, ah suggest yuh do the same
+    
+      when-changed ./your_file.py "python3 ./test_file.py; echo '---'";
