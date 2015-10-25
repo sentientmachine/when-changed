@@ -28,7 +28,7 @@
 
     ~ Installation
 
-      pip install https://github.com/joh/when-changed/archive/master.zip
+      sudo pip install https://github.com/sentientmachine/when-changed/archive/master.zip
 
 
     ~ Usage
